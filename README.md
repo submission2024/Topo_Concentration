@@ -9,5 +9,4 @@ This repository includes three folder:
 Please install corresponding packages via:
 ```linux
 pip install -r ./requirements.txt
-
 ```
