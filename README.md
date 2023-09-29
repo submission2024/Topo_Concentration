@@ -6,3 +6,8 @@ This repository includes three folder:
 - **TC-expr-collab**: Link prediction experiment with GCN/SAGE and with our enhanced reweight strategy on Collab.
 - **Analysis**: Analysis on Collab (we include Collab but will release analysis code for all datasets upon acceptance).
 
+Please install corresponding packages via:
+```linux
+pip install -r ./requirements.txt
+
+```
